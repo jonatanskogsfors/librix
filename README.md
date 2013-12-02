@@ -4,7 +4,7 @@ librix
 An library catalog for home use. Modeled to look like I remember Dynix from my childhood.
 
 ## Goals
-The goals of the project falls into two groups, a practical and a knowlede based.
+The goals of the project falls into two groups, practical and a knowlede based.
 
 Practical goals:
 * Create a catalog for my home collections of books, movies, music and games.
@@ -13,4 +13,4 @@ Practical goals:
 Knowledge based goals:
 * Learn about the Dewey Decimal Classification system
 * Learn about the Python curses library
-* LEarn about MongoDB
+* Learn about MongoDB
